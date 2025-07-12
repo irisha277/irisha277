@@ -78,13 +78,12 @@
 <br>
 
 ## 🪴 Практика и стажировка
-[<img src="/certificate_yadro_irina.png" width="280px" hspace="10px" alt="Сертификат Kvadra»">](https://raw.githubusercontent.com/irisha277/irisha277/refs/heads/main/certificate_yadro_irina.png)
+[<img src="/certificate_yadro_irina.png" width="280px" hspace="10px" alt="Сертификат Yadro»">](https://raw.githubusercontent.com/irisha277/irisha277/refs/heads/main/certificate_yadro_irina.png)
 
 <br>
 
 ## 🎒 Образование
-[<img src="/diploma_en2.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/German-D/German-D/main/diploma_en2.png)
-[<img src="/Letter10.png" width="280px" hspace="10px" alt="Рекомендательное письмо»">](https://raw.githubusercontent.com/German-D/German-D/main/Letter10.png)
+[<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irisha277/irisha277/refs/heads/main/certificate.png)
 
 <br>
 <br>
