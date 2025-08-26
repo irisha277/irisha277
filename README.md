@@ -84,7 +84,7 @@
 
 ## 🎒 Образование
 [<img src="/certificate.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/irisha277/irisha277/refs/heads/main/certificate.png)
-
+[<img src="/Introduction_to_SQL_certificate.jpg" width="280px" hspace="10px" alt="SQL">](https://raw.githubusercontent.com/irisha277/irisha277/refs/heads/main/Introduction_to_SQL_certificate.jpg)
 <br>
 <br>
 
